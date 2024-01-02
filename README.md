@@ -1,27 +1,32 @@
-# React + TypeScript + Vite
+# Snapgram(Social Media Application)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+link: https://snapgram-ryy8.vercel.app/sign-in
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![image](https://github.com/AnkitaSingh2000/Snapgram-Social-Media-Application-/assets/89559467/8768b773-dfa8-4501-9edc-0ad2318d5f86)
 
-## Expanding the ESLint configuration
+![image](https://github.com/AnkitaSingh2000/Snapgram-Social-Media-Application-/assets/89559467/f47f54fd-6a65-4298-b25c-0ab59fccf7d8)
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+![Screenshot (494)](https://github.com/AnkitaSingh2000/Snapgram-Social-Media-Application-/assets/89559467/8d372bb3-357b-43b0-8442-a2a2b3265e49)
 
-- Configure the top-level `parserOptions` property like this:
+![Screenshot (497)](https://github.com/AnkitaSingh2000/Snapgram-Social-Media-Application-/assets/89559467/282638b1-daf1-45b8-907f-691ea96bb387)
 
-```js
-   parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-   },
-```
+![Screenshot (496)](https://github.com/AnkitaSingh2000/Snapgram-Social-Media-Application-/assets/89559467/084667ea-9889-4eed-a4ee-46c56971a67d)
 
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+
+# Features
+- Sign up / Sign in
+- Create Post(Add images)
+- Save Posts
+- Like Post
+- Edit and Delete Posts
+- Drag and drop photos
+- Browsing other users posts and their profile
+
+# Libraries & Framework
+- ReactJS
+- React Query
+- Appwrite
+- Tailwind CSS
+- Shadcn Ui
+- Typescript
