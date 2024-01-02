@@ -1,7 +1,6 @@
 # Snapgram(Social Media Application)
 
-link: https://snapgram-ryy8.vercel.app/sign-in
-
+link: snapgram-ryy8.vercel.app
 
 ![image](https://github.com/AnkitaSingh2000/Snapgram-Social-Media-Application-/assets/89559467/8768b773-dfa8-4501-9edc-0ad2318d5f86)
 
