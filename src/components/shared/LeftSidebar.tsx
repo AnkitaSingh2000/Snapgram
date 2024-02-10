@@ -52,6 +52,14 @@ const LeftSidebar = () => {
                             </li>
                         )
                     })}
+                    <Link to='https://crowdfunding-dapp1.netlify.app/' className="flex gap-3 items-center">
+                    <img
+                        src="/assets/images/logo crowdfunding.svg"
+                        alt="logo"
+                        width={40}
+                        height={50}
+                    /> Crowdfunding
+                </Link>
                 </ul>
             </div>
 
