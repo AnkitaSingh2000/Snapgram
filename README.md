@@ -2,15 +2,17 @@
 
 link: https://snapgram-ryy8.vercel.app/
 
-![image](https://github.com/AnkitaSingh2000/Snapgram-Social-Media-Application-/assets/89559467/8768b773-dfa8-4501-9edc-0ad2318d5f86)
+![Screenshot 2024-01-02 130238](https://github.com/AnkitaSingh2000/Snapgram/assets/89559467/f4ccee71-41e0-4d77-9db7-9329046f999f)
 
-![image](https://github.com/AnkitaSingh2000/Snapgram-Social-Media-Application-/assets/89559467/f47f54fd-6a65-4298-b25c-0ab59fccf7d8)
+![Screenshot 2024-01-02 130113](https://github.com/AnkitaSingh2000/Snapgram/assets/89559467/17938102-3eb6-43d1-88d9-c5783081496b)
 
-![Screenshot (494)](https://github.com/AnkitaSingh2000/Snapgram-Social-Media-Application-/assets/89559467/8d372bb3-357b-43b0-8442-a2a2b3265e49)
+![Screenshot 2024-01-02 130432](https://github.com/AnkitaSingh2000/Snapgram/assets/89559467/35fced52-b642-47c9-8319-c6ae6bc71aa5)
 
-![Screenshot (497)](https://github.com/AnkitaSingh2000/Snapgram-Social-Media-Application-/assets/89559467/282638b1-daf1-45b8-907f-691ea96bb387)
+![Screenshot 2024-01-02 131028](https://github.com/AnkitaSingh2000/Snapgram/assets/89559467/8c665fbe-73e1-4841-b467-f02037be2263)
 
-![Screenshot (496)](https://github.com/AnkitaSingh2000/Snapgram-Social-Media-Application-/assets/89559467/084667ea-9889-4eed-a4ee-46c56971a67d)
+![Screenshot 2024-01-02 130831](https://github.com/AnkitaSingh2000/Snapgram/assets/89559467/3e918295-79f4-434e-937b-e19fd6d31f21)
+
+
 
 
 # Features
